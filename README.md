@@ -15,7 +15,7 @@ The Apillon Bot is a command-line interface (CLI) tool that interacts with the A
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dante4rt/apillon-bot.git
    ```
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ Before using the Apillon Bot, make sure you have obtained your authorization tok
 To start the bot, run:
 
 ```bash
-node apillon.js
+node index.js
 ```
 
 Follow the prompts to select an action and provide any required inputs such as UUIDs, addresses, or quantities.
