@@ -1,0 +1,16 @@
+{
+  "name": "apillon-bot",
+  "version": "1.0.0",
+  "description": "CLI tool for interacting with the Apillon API to manage NFT collections, upload files to storage, and manage website hosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "readline-sync": "^1.4.10"
+  }
+}
